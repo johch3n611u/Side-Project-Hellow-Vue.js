@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>!!! Vue。Todo-List_Demo !!!</title>
+    <link rel="stylesheet" type="text/css" href="css/reset-font-min.css">
+    <link rel="stylesheet" type="text/css" href="css/clearfix.css">
+    <link rel="stylesheet" type="text/css" href="/Todo-List_Demo/assets/css/todolist.css">
+</head>
+
+<body>
+    <div id="todo-list">
+        <h1>Vue Demo：今日代辦項目</h1>
+        <div class="new-todo">
+            <label for="new-todo">增加新項目：</label>
+            <input v-model="newTodoText" id="new-todo" v-on:keyup.enter="addNewTodo" placeholder="例如：澆花。Enter ↲ 鍵入">
+        </div>
+        <ul>
+            <li is="todo-item" v-for="(todo, index) in todos" v-bind:key="todo.id" v-bind:title="todo.title" v-on:remove="todos.splice(index, 1)"></li>
+        </ul>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+    <script src="/Todo-List_Demo/assets/js/todolist.js"></script>
+</body>
+
+</html>
