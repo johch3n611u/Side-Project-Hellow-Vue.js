@@ -2,11 +2,11 @@
 
 ## Demo
 
-![IMAGE](https://github.com/johch3n611u/Side-Project-Hellow-Vue.js/blob/master/IMG/vuetodolistdemo.gif)
-
 * CodePen <https://codepen.io/johch3n611u/full/MWaGrgw>
 
 * [此 Windows 98 樣式為開源 98.css 庫，並非是用 Winform 所撰寫。](https://github.com/jdan/98.css?fbclid=IwAR1rCsmipzAA5RBq3RInac7Pz4pCKIRp8Y0OzBRi-LsdSGlNplcgw2o4NMQ)
+
+![IMAGE](https://github.com/johch3n611u/Side-Project-Hellow-Vue.js/blob/master/IMG/vuetodolistdemo.gif)
 
 ## 序
 
