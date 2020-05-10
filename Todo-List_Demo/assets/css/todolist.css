@@ -13,11 +13,11 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 20%;
+    padding: 8%;
 }
 
 .todo-list {
-    width: 50%;
+    min-width: 45%;
 }
 
 .todo-list-body {
