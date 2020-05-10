@@ -22,9 +22,13 @@
 
 ### Branch
 
+#### Now
+
 * Version 1. todolist-simple (master)
 
-* ̶V̶e̶r̶s̶i̶o̶n̶ ̶2̶.̶ ̶S̶C̶S̶S̶ ̶/̶ ̶W̶e̶b̶p̶a̶c̶k̶ ̶U̶s̶e̶d̶
+#### Expected
+
+*  ̶V̶e̶r̶s̶i̶o̶n̶ ̶2̶.̶ ̶S̶C̶S̶S̶ ̶/̶ ̶W̶e̶b̶p̶a̶c̶k̶ ̶U̶s̶e̶d̶
 
 * ̶V̶e̶r̶s̶i̶o̶n̶ ̶3̶.̶ ̶c̶l̶i̶ ̶F̶i̶l̶e̶ ̶C̶o̶m̶p̶o̶n̶e̶n̶t̶s̶
 
@@ -33,8 +37,9 @@
 ## 參考
 
 * <https://cn.vuejs.org/>
-* <https://cythilya.github.io/2017/03/07/todolist-vue-example/>
 * <https://dotblogs.com.tw/shadow/2019/01/16/082531>
 * <https://ithelp.ithome.com.tw/m/users/20107789/ironman/1710>
+* <https://cythilya.github.io/2017/03/07/todolist-vue-example/>
 * <https://dotblogs.com.tw/brian90191/2019/07/03/121640>
 * <https://ithelp.ithome.com.tw/articles/10187642>
+* <https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Global_Objects/Object/keys>
