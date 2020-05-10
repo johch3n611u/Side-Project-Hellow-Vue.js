@@ -6,6 +6,8 @@
 
 * CodePen <https://codepen.io/johch3n611u/full/MWaGrgw>
 
+* 此 Windows 98 樣式為開源 CSS 庫，並非是用 Winform 所撰寫。 <https://github.com/jdan/98.css?fbclid=IwAR1rCsmipzAA5RBq3RInac7Pz4pCKIRp8Y0OzBRi-LsdSGlNplcgw2o4NMQ>
+
 ## 序
 
 以學過 Angular 的角度來看 Vue 上手速度算是蠻快的，基本上熟悉文件配置，使用方式與組成都很類似，
