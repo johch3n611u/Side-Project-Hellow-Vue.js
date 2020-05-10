@@ -1,6 +1,6 @@
 # Try some Vue.js
 
-## 成果
+## Demo
 
 ![IMAGE](https://github.com/johch3n611u/Side-Project-Hellow-Vue.js/blob/master/IMG/vuetodolistdemo.gif)
 
