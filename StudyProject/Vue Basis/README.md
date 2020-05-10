@@ -1937,4 +1937,10 @@ Vue.component('custom-input', {
 
 * 字符串 (例如：template: '...')
 * 单文件组件 (.vue)
-* <script type="text/x-template">
+* &lt;script type="text/x-template">
+
+## 總結
+
+看完　Basis 可以感受到確實比 ng 輕，但這也只是基本應用而已，延伸應用加下去感覺跟 ng 比也是不相上下，
+
+且許多應用如 ng 一樣，可能要邊做遇到問題時在了解才會學得快。
