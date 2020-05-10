@@ -26,7 +26,7 @@
 
 * ̶V̶e̶r̶s̶i̶o̶n̶ ̶2̶.̶ ̶S̶C̶S̶S̶ ̶/̶ ̶W̶e̶b̶p̶a̶c̶k̶ ̶U̶s̶e̶d̶
 
-* ̶V̶e̶r̶s̶i̶o̶n̶ ̶3̶.̶ ̶c̶l̶i̶ ̶文̶件̶组̶件̶
+* ̶V̶e̶r̶s̶i̶o̶n̶ ̶3̶.̶ ̶c̶l̶i̶ ̶F̶i̶l̶e̶ ̶C̶o̶m̶p̶o̶n̶e̶n̶t̶s̶
 
 * ̶V̶e̶r̶s̶i̶o̶n̶ ̶4̶.̶ ̶F̶i̶r̶e̶b̶a̶s̶e̶ ̶I̶n̶t̶e̶r̶a̶c̶t̶i̶v̶e̶
 
