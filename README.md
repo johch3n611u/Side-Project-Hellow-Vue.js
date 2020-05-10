@@ -1,5 +1,11 @@
 # Try some Vue.js
 
+## 成果
+
+![IMAGE](https://github.com/johch3n611u/Side-Project-Hellow-Vue.js/blob/master/IMG/vuetodolistdemo.gif)
+
+* CodePen <https://codepen.io/johch3n611u/full/MWaGrgw>
+
 ## 序
 
 以學過 Angular 的角度來看 Vue 上手速度算是蠻快的，基本上熟悉文件配置，使用方式與組成都很類似，
