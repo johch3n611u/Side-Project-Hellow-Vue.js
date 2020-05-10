@@ -13,7 +13,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 8%;
+    padding: 5%;
 }
 
 .todo-list {
@@ -42,6 +42,12 @@ body {
     margin-top: 10%;
     display: flex;
     flex-direction: row;
+}
+
+@media screen and (max-width: 500px) {
+    .todo-list-display-sort {
+        flex-direction: column;
+    }
 }
 
 .todo-list-display-sort>button {
