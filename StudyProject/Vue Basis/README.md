@@ -1,7 +1,5 @@
 # [Vue Basis](https://cn.vuejs.org/v2/guide/#%E8%B5%B7%E6%AD%A5) Version 2.X
 
-## 版本 2.X
-
 ## [声明式渲染](https://cn.vuejs.org/v2/guide/#%E5%A3%B0%E6%98%8E%E5%BC%8F%E6%B8%B2%E6%9F%93)
 
 文本插值
