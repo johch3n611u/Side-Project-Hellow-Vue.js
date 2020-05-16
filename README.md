@@ -54,8 +54,10 @@
 
 ### 後續
 
+* [A re-introduction to JavaScript (JS tutorial)](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
+
 <details>
-<summary><a href='https://kknews.cc/zh-tw/code/kbejqlb.html'>插件總匯</a></summary>
+<summary><a href='https://kknews.cc/zh-tw/code/kbejqlb.html'>Vue 插件總匯</a></summary>
 
 ### [一、UI組件及框架](#)
 
