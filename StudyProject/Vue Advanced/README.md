@@ -58,6 +58,22 @@ export default {
 
 ### [自动化全局注册 Vue CLI 3+ 實例](https://github.com/chrisvfritz/vue-enterprise-boilerplate/blob/master/src/components/_globals.js)
 
+基礎組件 Vue Cli 3+
+
+入口文件 src/main.js 導入
+
+自動化全域聲明
+
+import Vue from 'vue'
+
+import upperFirst from './upperFirst'
+
+import camelCase from './camelCase'
+
+require.context
+
+類似反應式設計、ng基礎組件載入，透過 wepbpack，靜態分析使用內容作最小打包
+
 ## [Prop](https://cn.vuejs.org/v2/guide/components-props.html)
 
 ### 大小寫
