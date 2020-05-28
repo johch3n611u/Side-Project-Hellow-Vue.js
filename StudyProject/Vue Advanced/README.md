@@ -1,5 +1,15 @@
 # 總結
 
+整個官方網站都瀏覽過了，剩下的就是實作的熟練度了，再來是 plugins 的問題，
+
+因為不像 ng 是包起來一整包，有點類似 react ，所以說實話感覺學習曲線還是在那並沒有比較容易的感覺...
+
+不太確定是否是因為我 react 與 ng 都沒有碰得很熟練與深度的關係...
+
+總之接下來應該會繼續從 router　之後接續是 vuex 再來是 Quasar
+
+--------------------------------------------------------------
+
 # [Vue Advanced](https://cn.vuejs.org/v2/guide/components-registration.html) Version 2.X
 
 ## 组件名
